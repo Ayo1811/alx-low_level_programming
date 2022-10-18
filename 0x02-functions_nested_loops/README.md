@@ -1,0 +1,1 @@
+c functiion nested loops
